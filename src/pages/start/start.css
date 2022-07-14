@@ -1,0 +1,24 @@
+
+.BackGroundImage{
+    background-image: 
+    url(
+  "./../../assets/images/background.jpg");
+  background-size:contain;
+    height: 100vh;
+    background-position:top;
+    background: cover;
+    /* margin-top: -70px; */
+    /* font-size:50px; */
+    /* background-repeat:no-repeat;  */
+}
+.loginButton {
+    position: absolute;
+    left: 45%;
+    top: 40%;
+	background-color: lightcoral;
+	color: white;
+	padding: 20px;
+	border: none;
+	border-radius: 20px;
+	text-align: center;
+}

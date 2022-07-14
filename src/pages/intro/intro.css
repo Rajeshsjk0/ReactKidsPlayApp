@@ -1,0 +1,23 @@
+.IntroRive{
+    height: 100vh;
+    width:100vh;
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+}
+.Container{
+    align-items: center;
+    justify-items: center;
+    background-color: black;
+}
+.startButton {
+    position: absolute;
+    left: 90%;
+    bottom: 5%;
+	background-color: lightcoral;
+	color: white;
+	padding: 20px;
+	border: none;
+	border-radius: 20px;
+	text-align: center;  
+}
